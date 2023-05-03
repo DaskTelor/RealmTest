@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RealmTest</string>
+
+    <string name="delete_action">Delete</string>
+    <string name="duplicate_action">Duplicate</string>
+    <string name="ok">OK</string>
+    <string name="add">ADD</string>
+
+    <string name="operation_amount">%s руб.</string>
+    <string name="operation_sender">Перевод: %s</string>
+</resources>
